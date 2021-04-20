@@ -1,0 +1,10 @@
+body {background-color: black;}
+h1 {color: gold;text-align: center;font-size:100px;text-decoration: underline ;font-family:cursive;}
+p {color:silver;;font-size: 34px;padding-left: 150px;border-spacing: 150px;font-family: cursive;}
+img {float:left;border: gold;border-style: dotted;border-spacing: 35px;}
+h3 {color:gold; text-align: center; font-size: 50px;font-family: cursive;}
+iframe {height: 850px; width: 1400px;}
+table {color:silver;}
+table {padding: 0px 500px 30px 600px;}
+li {color: silver; margin: 1px 10px 10px 520px;}
+form {color: silver;}
